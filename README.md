@@ -20,8 +20,8 @@
 6. Add Bootstrap
 + Copy "Bootstrap" folder to public project folder
 + Link to Bootstrap file. Add to line to index.html
-    - <link rel="stylesheet" href="bootstrap/bootstrap.min.css" />
-    - <link rel="stylesheet" href="bootstrap/bootstrap-icons.css" /> 
+    - rel="stylesheet" href="../bootstrap.min.css"
+    - rel="stylesheet" href="../bootstrap-icons.css" 
 7. Create folder "images, css" in "src" contain images and css of project
 8. Create folder "components" contain Footer.js, Header.js.....
 9. Create folder "pages" contain Home.js....some other pages
