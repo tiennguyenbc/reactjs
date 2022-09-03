@@ -1,3 +1,5 @@
+Create project with Boostrap, font, style SCSS, Router(route child page), Navigation(like redirect)
+
 1. Install NodeJs
 2. Install Git
 + Add email: git config --global user.email "youtemail@gamil.com"
